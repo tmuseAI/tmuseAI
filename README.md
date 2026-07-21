@@ -50,7 +50,6 @@ development workflows.
 | Project | Description | Stack |
 |---|---|---|
 | [**UI-UX-etc**](https://github.com/tmuseAI/UI-UX-etc) | UI/UX component library for Roblox scripts | Lua |
-| [**service**](https://github.com/tmuseAI/service) | Reusable service module for Luau projects | Luau |
 | [**3tn-trackstats-blox-fruit**](https://github.com/tmuseAI/3tn-trackstats-blox-fruit) | Real-time stat-tracking tool for Blox Fruit | — |
 | [**bnnc**](https://github.com/tmuseAI/bnnc) | Lua project in active development | Lua |
 | [**fl-**](https://github.com/tmuseAI/fl-) | Fluent Renew — single-file Fluent UI library for Roblox | Luau |
