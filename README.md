@@ -60,10 +60,6 @@ development workflows.
 <div align="center">
 
 
-</div>
-
----
-
 <div align="center">
 
 ✨ Thanks for stopping by — feel free to explore my repos above.
