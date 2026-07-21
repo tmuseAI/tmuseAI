@@ -19,8 +19,8 @@ with a growing interest in AI-assisted automation workflows.
 ### About
 
 Design and build scripting systems for Roblox — from UI/UX components to
-backend service modules and real-time stat tracking. Focus  writing
-clean, maintainable Luau code and exploring how AI tooling can speed up
+backend service modules and real-time stat tracking. Focus on writing
+with the help of AI, maintainable Luau code and exploring how AI tooling can speed up
 development workflows.
 
 - 🛠️ **Core stack:** Lua, Luau, Roblox Studio APIs
